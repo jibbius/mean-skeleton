@@ -19,6 +19,6 @@ indent_style = space
 indent_size = 4
 
 # 2 space indentation
-[*.{json}]
+[*.{json,jade}]
 indent_style = space
 indent_size = 2

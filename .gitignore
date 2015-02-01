@@ -2,3 +2,4 @@
 node_modules
 server/views/partials/*.html
 public/css/site.css
+.DS_Store
