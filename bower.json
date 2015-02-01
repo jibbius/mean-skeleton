@@ -1,0 +1,24 @@
+{
+  "name": "mean_skeleton",
+  "version": "0.0.0",
+  "authors": [
+    "Jack Barker <jack.barker.au@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toastr": "~2.0.2",
+    "angular": "~1.2.16",
+    "angular-resource": "~1.2.16",
+    "angular-route": "~1.2.16"
+  }
+}
